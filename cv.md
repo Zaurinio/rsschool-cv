@@ -17,6 +17,7 @@ In the course from RS School, I want to structure my knowledges and delve deeper
 - CSS (SASS)
 - JavaScript
 - Git
+- Figma
 
 ## Code Examples
 
@@ -40,8 +41,8 @@ function count (string) {
 
 ## Education
 
-- University: HSE University, Logistics and SCM
-- Courses:
+- **University:** HSE University, Logistics and SCM
+- **Courses:**
   ++ HTML Academy, HTML and CSS. Professional website layout
   ++ HTML Academy, JavaScript. Professional web interface development
   ++ HTML Academy, React. Developing complex client applications
