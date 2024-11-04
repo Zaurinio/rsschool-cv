@@ -1,1 +1,1 @@
-https://zaurinio.github.io/rsschool-cv/cv
+https://zaurinio.github.io/rsschool-cv
